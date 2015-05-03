@@ -1,2 +1,4 @@
 # Build and Release Folders
 bin/
+# Third-party libs
+libs/
